@@ -1,0 +1,9 @@
+.first-container {
+  width: 70%;
+  padding: 20px;
+  margin: 20px;
+  background-color: #1c1c2b;
+}
+.dose {
+  border-radius: 15px;
+}
